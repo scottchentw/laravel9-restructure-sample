@@ -212,4 +212,10 @@ return [
         // 'ExampleClass' => App\Example\ExampleClass::class,
     ])->toArray(),
 
+    'admin_emails' => [
+        'scott@ezmail.com.tw',
+        'scott_chentw@gmail.com',
+        'scott@ezmail.com.tw'
+    ],
+
 ];
